@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Game Development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1chAc-h8B58uShiRrCc8CF4NUVXC1xTrx/view?usp=sharing](https://drive.google.com/file/d/1chAc-h8B58uShiRrCc8CF4NUVXC1xTrx/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1chAc-h8B58uShiRrCc8CF4NUVXC1xTrx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Akihira77&theme=tokyonight" alt="GitHub Streak" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/user9634VO?theme=catppuccinMocha&font=Farsan&ext=heatmap)
