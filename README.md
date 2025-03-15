@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Akihira77&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Akihira77&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 ### 🔥 LeetCode Stats
