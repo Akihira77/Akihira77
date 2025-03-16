@@ -14,7 +14,6 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on [Go WhatsApp](https://github.com/Akihira77/go-whatsapp)  
 - 🌱 I’m currently learning **Blockchain and Game Development Using Go**  
-- 📄 [My Resume](https://drive.google.com/file/d/1chAc-h8B58uShiRrCc8CF4NUVXC1xTrx/view?usp=sharing)  
 
 ### 🌐 Connect with Me
 <p align="left">
