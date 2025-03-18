@@ -17,7 +17,11 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /></a>
+  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank"><b>My LinkedIn</b></a>
 </p>
 
 ### 🛠️ Languages and Tools
@@ -35,10 +39,15 @@
   <a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/websocket.svg" alt="WebSocket" width="40" height="40"/></a>
-  <a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Neovim" width="40" height="40"/></a>
+  <a href="https://neovim.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gin.svg" alt="Go-Gin" width="40" height="40"/></a>
+  <a href="https://gofiber.io/"><img src="https://raw.githubusercontent.com/gofiber/docs/main/static/fiber-logo.svg" alt="Go-Fiber" width="40" height="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/></a>
+  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
+  <a href="https://hono.dev/"><img src="https://raw.githubusercontent.com/honojs/logo/main/hono.svg" alt="HonoJS" width="40" height="40"/></a>
 </p>
 
 
@@ -56,4 +65,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/user9634VO?theme=catppuccinMocha&font=Farsan&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
