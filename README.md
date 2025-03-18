@@ -63,5 +63,5 @@
 
 ### 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/user9634VO?theme=catppuccinMocha&font=Farsan&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/user9634VO/"><img src="https://leetcard.jacoblin.cool/user9634VO?theme=catppuccinMocha&font=Farsan&ext=heatmap" alt="LeetCode Stats"/></a>
 </p>
