@@ -17,11 +17,9 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" />
-  </a>
+  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank"><b>My LinkedIn</b></a>
+  <a href="https://linkedin.com/in/andika-wahyu-permadi-903698222" target="blank"></a>
 </p>
 
 ### 🛠️ Languages and Tools
