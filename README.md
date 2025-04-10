@@ -12,7 +12,7 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [Go WhatsApp](https://github.com/Akihira77/go-whatsapp)  
+- 🔭 I’m currently working on [Go Mini Soccer Microservice](https://github.com/Akihira77/go-minisoccer-microservice)  
 - 🌱 I’m currently learning **Blockchain and Game Development Using Go**  
 
 ### 🌐 Connect with Me
