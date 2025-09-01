@@ -9,11 +9,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=akihira77&theme=tokyonight" alt="GitHub Trophies" />
   </a>
-</p>
-
-### 🚀 About Me
-- 🔭 I’m currently working on [Go Mini Soccer Microservice](https://github.com/Go-Mini-Soccer-Project)  
-- 🌱 I’m currently learning **Blockchain and Game Development Using Go**  
+</p> 
 
 ### 🌐 Connect with Me
 <p align="left">
